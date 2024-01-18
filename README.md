@@ -1,6 +1,6 @@
 # Linux Ubuntu Nous
 
-Deskripsi singkat proyek remastering Ubuntu.
+Nous mengusung tema library dengan nuansa alam ke dalam Nous supaya pengguna merasakan vibes membaca diluar ruangan khususnya alam. Alasan lainnya yaitu agar pengguna juga tidak merasakan bosan atau monoton menggunakan Nous jika kami hanya benar-benar mengaplikasikan tema library pada umumnya tanpa adanya modifikasi atau hal baru dalam tema tersebut
 
 ## Tentang
 
@@ -25,5 +25,8 @@ Proyek ini adalah hasil dari remastering Ubuntu, dirancang untuk memenuhi kebutu
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran, hubungi [nama Anda] melalui email@example.com.
+Jika Anda memiliki pertanyaan atau saran, hubungi [Edwin Pavel Ekapagliuca] melalui 230103098@mhs.udb.ac.id
+                                                  [Jibran Ma’ruf] melalui 230103105@mhs.udb.ac.id
+                                                  [Varel Deva Dewangga] melalui 230103120@mhs.udb.ac.id
+                                                  
 
