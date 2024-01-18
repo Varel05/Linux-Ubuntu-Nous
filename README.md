@@ -25,8 +25,9 @@ Proyek ini adalah hasil dari remastering Ubuntu, dirancang untuk memenuhi kebutu
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran, hubungi [Edwin Pavel Ekapagliuca] melalui 230103098@mhs.udb.ac.id
-                                                  [Jibran Ma’ruf] melalui 230103105@mhs.udb.ac.id
-                                                  [Varel Deva Dewangga] melalui 230103120@mhs.udb.ac.id
+Jika Anda memiliki pertanyaan atau saran, hubungi:
+- [Edwin Pavel Ekapagliuca] melalui 230103098@mhs.udb.ac.id
+- [Jibran Ma’ruf] melalui 230103105@mhs.udb.ac.id
+- [Varel Deva Dewangga] melalui 230103120@mhs.udb.ac.id
                                                   
 
