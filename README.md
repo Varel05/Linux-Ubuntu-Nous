@@ -12,17 +12,16 @@ Proyek ini adalah hasil dari remastering Ubuntu, dirancang untuk memenuhi kebutu
 
 ## Persyaratan Sistem
 
-- [Ubuntu 22.04](link ke versi yang digunakan)
+- [Ubuntu 22.04](https://ubuntu.com/download/desktop)
+- 2 GHz dual-core processor atau lebih baik
+- 4 GB system memory
+- 25 GB of free hard drive space
 
 ## Cara Menggunakan
 
-1. **Unduh ISO**: Unduh file ISO remastering dari [releases](link ke bagian release di GitHub).
+1. **Unduh ISO**: Unduh file ISO remastering dari [drive](https://drive.google.com/drive/folders/1owyS4D76JsUXsZBVWbGtCI_L146lFOA9).
 2. **Burning ke Media**: Bakar ISO ke DVD atau buat USB bootable.
 3. **Instalasi**: Instalasi pada komputer atau mesin virtual sesuai dengan prosedur instalasi Ubuntu biasa.
-
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek ini, silakan buka [CONTRIBUTING.md](CONTRIBUTING.md) untuk panduan kontribusi.
 
 ## Kontak
 
