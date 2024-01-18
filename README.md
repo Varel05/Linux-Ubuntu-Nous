@@ -23,6 +23,10 @@ Proyek ini adalah hasil dari remastering Ubuntu, dirancang untuk memenuhi kebutu
 2. **Burning ke Media**: Bakar ISO ke DVD atau buat USB bootable.
 3. **Instalasi**: Instalasi pada komputer atau mesin virtual sesuai dengan prosedur instalasi Ubuntu biasa.
 
+## Kolaborator
+
+[Ridwan Dwi Irawan] email : ridwan_dwiirawan@udb.ac.id 
+
 ## Kontak
 
 Jika Anda memiliki pertanyaan atau saran, hubungi:
