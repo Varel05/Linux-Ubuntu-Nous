@@ -1,3 +1,4 @@
+![logo](https://drive.google.com/file/d/1rrzaUXrOlfkO-Fr9QahZzAP8dz8aqm-8/view?usp=sharing | width=100)
 # Linux Ubuntu Nous
 
 Nous mengusung tema library dengan nuansa alam ke dalam Nous supaya pengguna merasakan vibes membaca diluar ruangan khususnya alam. Alasan lainnya yaitu agar pengguna juga tidak merasakan bosan atau monoton menggunakan Nous jika kami hanya benar-benar mengaplikasikan tema library pada umumnya tanpa adanya modifikasi atau hal baru dalam tema tersebut
@@ -9,6 +10,11 @@ Proyek ini adalah hasil dari remastering Ubuntu, dirancang untuk memenuhi kebutu
 - [x] **Custom Package Installations**: Menyertakan paket perangkat lunak khusus yang tidak ada dalam distribusi standar Ubuntu.
 - [x] **Custom Desktop Environment**: Pengaturan tema dan konfigurasi khusus untuk menciptakan tampilan yang unik.
 - [x] **Optimizations**: Penyesuaian dan optimalisasi sistem untuk kinerja yang lebih baik.
+
+##Tampilan
+
+Berikut contoh tampilan dalam Nous
+
 
 ## Persyaratan Sistem
 
