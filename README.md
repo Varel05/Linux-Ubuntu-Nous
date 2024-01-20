@@ -16,7 +16,7 @@ Proyek ini adalah hasil dari remastering Ubuntu, dirancang untuk memenuhi kebutu
 
 Berikut contoh tampilan dalam Nous
 
-![screenshoot](images/VirtualBox_Nous 22_17_01_2024_22_18_42.png) ![screenshoot](images/VirtualBox_Nous 22_17_01_2024_22_18_42.png)
+![screenshoot](images/VirtualBox_Nous 22_17_01_2024_22_18_42.png); ![screenshoot](images/VirtualBox_Nous 22_17_01_2024_22_18_42.png)
 
 ## Persyaratan Sistem
 
