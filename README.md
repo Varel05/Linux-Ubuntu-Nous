@@ -21,6 +21,7 @@ Berikut contoh tampilan dalam Nous
 ![screenshoot](images/VirtualBox_Nous22_17_01_2024_22_19_55.png)
 ![screenshoot](images/VirtualBox_Nous22_17_01_2024_22_20_44.png)
 ![screenshoot](images/VirtualBox_Nous22_17_01_2024_22_21_37.png)
+![screenshoot](images/VirtualBox_Nous22_17_01_2024_22_22_09.png)
 
 ## Persyaratan Sistem
 
