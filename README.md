@@ -1,4 +1,4 @@
-![Deskripsi Gambar](https://drive.google.com/file/d/1rrzaUXrOlfkO-Fr9QahZzAP8dz8aqm-8/view?usp=sharing)
+![logo](images/bgrt-fallback.png)
 
 # Linux Ubuntu Nous
 
