@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/1rrzaUXrOlfkO-Fr9QahZzAP8dz8aqm-8/view?usp=sharing | width=100)
+![logo](https://drive.google.com/file/d/1rrzaUXrOlfkO-Fr9QahZzAP8dz8aqm-8/view?usp=sharing)
 # Linux Ubuntu Nous
 
 Nous mengusung tema library dengan nuansa alam ke dalam Nous supaya pengguna merasakan vibes membaca diluar ruangan khususnya alam. Alasan lainnya yaitu agar pengguna juga tidak merasakan bosan atau monoton menggunakan Nous jika kami hanya benar-benar mengaplikasikan tema library pada umumnya tanpa adanya modifikasi atau hal baru dalam tema tersebut
